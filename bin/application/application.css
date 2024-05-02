@@ -1,0 +1,13 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#result{
+	-fx-background-color: #f8f8ff;
+	-fx-text-fill:black;
+	-fx-border-radius:2px;
+	-fx-font-weight:bold;
+}
+#clear{
+	-fx-background-color:#fffaf0;
+}
+#back{
+	-fx-background-color:#fa8072;
+}
